@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(8, 30, 90);
+    margin: 0px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 30px;
+}
+.login-container{
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 500%;
+    max-width: 600px;
+    width: 40%; /* or any width */
+    margin: 0 auto;
+    height: 500px;
+    color: gray;
+    text-align: left;
+    
+}
+.login-form h2 {
+    margin-bottom: 1rem;
+    color: white;
+    text-align: center;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+  }
+  h4{
+    text-align: center;
+    font-weight: lighter;
+  }
+  .button{
+    width: 100%;
+    background-color: rgb(8, 30, 90);
+    color: aliceblue;
+  }
+  
